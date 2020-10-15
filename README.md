@@ -11,3 +11,4 @@ Module 2: Url Sentiment Analysis
 
 Module 3: About
 
+![about](https://user-images.githubusercontent.com/22385974/96089651-caa3d900-0ee4-11eb-95e1-90a09c122e7c.gif)
